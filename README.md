@@ -328,6 +328,7 @@ An interactive dashboard is created using Plotly to provide real-time visual exp
 * Gender-wise Insurance Charges
 * Correlation Heatmap
 * Risk Category Distribution
+  
 
 ### Interactive Filters
 
@@ -336,6 +337,12 @@ An interactive dashboard is created using Plotly to provide real-time visual exp
 * Region Filter
 * Smoking Status Filter
 * Children Count Filter
+
+<img width="1815" height="502" alt="image" src="https://github.com/user-attachments/assets/86fd987d-7fa4-4318-bda1-647eddc02b79" />
+
+
+<img width="1818" height="268" alt="image" src="https://github.com/user-attachments/assets/ddc95cbf-66ca-4a9e-bd6f-d19c0ae1905d" />
+
 
 ---
 
