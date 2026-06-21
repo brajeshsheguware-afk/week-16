@@ -160,21 +160,35 @@ The project includes multiple visualization techniques such as:
 ### Scatter Plots
 
 * Age vs Charges
+<img width="538" height="337" alt="image" src="https://github.com/user-attachments/assets/d26f1433-45ff-41f0-98a4-8721107bc7cc" />
+
 * BMI vs Charges
+<img width="532" height="343" alt="image" src="https://github.com/user-attachments/assets/daa57270-b1d2-42c5-8801-c4d85718d908" />
+
 
 ### Box Plots
 
 * Gender vs Charges
+<img width="532" height="349" alt="image" src="https://github.com/user-attachments/assets/f06eb17d-3f84-47b0-b12e-acd399ca1741" />
+
 * Smoker vs Charges
+<img width="532" height="338" alt="image" src="https://github.com/user-attachments/assets/58cd2f1b-eb4d-4ae4-b84e-4afcd8ccdf27" />
+
 
 ### Pie Charts
 
 * Gender Distribution
+<img width="290" height="296" alt="image" src="https://github.com/user-attachments/assets/c902eb22-3f22-4f57-9a41-d7b5c687db90" />
+
 * Smoking Status Distribution
+<img width="294" height="307" alt="image" src="https://github.com/user-attachments/assets/1c67f3cf-9722-421a-b06c-4fa64c93ed39" />
+
 
 ### Heatmaps
 
 * Correlation Analysis
+<img width="567" height="399" alt="image" src="https://github.com/user-attachments/assets/fdfe62ae-b305-459b-92b6-d51cedb47825" />
+
 
 ### Bar Charts
 
